@@ -1,3 +1,4 @@
+var variavelTeste = 0;
 var numeroAntigo = [];
 var podeSortear = 10;
 let numeroSecreto = gerarNumeroAleatorio();
