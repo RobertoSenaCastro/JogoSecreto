@@ -1,6 +1,6 @@
 var variavelTeste = 0;
 var numeroAntigo = [];
-var podeSortear = 10;
+var podeSortear = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
